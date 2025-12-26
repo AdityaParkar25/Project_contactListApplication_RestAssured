@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-26T05:31:59 IST" name="Default suite" finished-at="2025-12-26T05:32:23 IST" duration-ms="23650">
+    <groups>
+    </groups>
+    <test started-at="2025-12-26T05:31:59 IST" name="Default test" finished-at="2025-12-26T05:32:23 IST" duration-ms="23650">
+      <class name="TelecomAPIProject.ContactListAPITesting">
+        <test-method signature="TC01_addNewUser()[pri:1, instance:TelecomAPIProject.ContactListAPITesting@6cf0e0ba]" started-at="2025-12-26T05:32:00 IST" name="TC01_addNewUser" finished-at="2025-12-26T05:32:09 IST" duration-ms="8991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_addNewUser -->
+        <test-method signature="TC02_getUserProfile()[pri:2, instance:TelecomAPIProject.ContactListAPITesting@6cf0e0ba]" started-at="2025-12-26T05:32:09 IST" name="TC02_getUserProfile" finished-at="2025-12-26T05:32:10 IST" duration-ms="1848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_getUserProfile -->
+        <test-method signature="TC03_updateUser()[pri:3, instance:TelecomAPIProject.ContactListAPITesting@6cf0e0ba]" started-at="2025-12-26T05:32:10 IST" name="TC03_updateUser" finished-at="2025-12-26T05:32:12 IST" duration-ms="1627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_updateUser -->
+        <test-method signature="TC04_loginUser()[pri:4, instance:TelecomAPIProject.ContactListAPITesting@6cf0e0ba]" started-at="2025-12-26T05:32:12 IST" name="TC04_loginUser" finished-at="2025-12-26T05:32:14 IST" duration-ms="1724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04_loginUser -->
+        <test-method signature="TC05_addContact()[pri:5, instance:TelecomAPIProject.ContactListAPITesting@6cf0e0ba]" started-at="2025-12-26T05:32:14 IST" name="TC05_addContact" finished-at="2025-12-26T05:32:15 IST" duration-ms="1632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05_addContact -->
+        <test-method signature="TC06_getContactList()[pri:6, instance:TelecomAPIProject.ContactListAPITesting@6cf0e0ba]" started-at="2025-12-26T05:32:15 IST" name="TC06_getContactList" finished-at="2025-12-26T05:32:17 IST" duration-ms="1401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06_getContactList -->
+        <test-method signature="TC07_getContact()[pri:7, instance:TelecomAPIProject.ContactListAPITesting@6cf0e0ba]" started-at="2025-12-26T05:32:17 IST" name="TC07_getContact" finished-at="2025-12-26T05:32:18 IST" duration-ms="1643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC07_getContact -->
+        <test-method signature="TC08_updateContactPut()[pri:8, instance:TelecomAPIProject.ContactListAPITesting@6cf0e0ba]" started-at="2025-12-26T05:32:18 IST" name="TC08_updateContactPut" finished-at="2025-12-26T05:32:20 IST" duration-ms="1613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC08_updateContactPut -->
+        <test-method signature="TC09_updateContactPatch()[pri:9, instance:TelecomAPIProject.ContactListAPITesting@6cf0e0ba]" started-at="2025-12-26T05:32:20 IST" name="TC09_updateContactPatch" finished-at="2025-12-26T05:32:22 IST" duration-ms="1522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC09_updateContactPatch -->
+        <test-method signature="TC10_logoutUser()[pri:10, instance:TelecomAPIProject.ContactListAPITesting@6cf0e0ba]" started-at="2025-12-26T05:32:22 IST" name="TC10_logoutUser" finished-at="2025-12-26T05:32:23 IST" duration-ms="1362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC10_logoutUser -->
+      </class> <!-- TelecomAPIProject.ContactListAPITesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
